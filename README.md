@@ -1,7 +1,7 @@
 # Лабораторная работа №4
 
 **ФИО:** Сташенко Дмитрий Николаевич  
-**Группа:** ИС-21  
+**Группа:** ИСП-243  
 **Дата:** 04.10.2026
 
 ---
@@ -27,7 +27,7 @@
 ## Структура проекта
 
 ```
-Lab4_ISRPO_Сташенко/
+Lab4_ISRPO_Stash/
 ├── client/
 │   ├── index.html
 │   └── about.html
@@ -35,10 +35,10 @@ Lab4_ISRPO_Сташенко/
 │   ├── latex_examples.md
 │   └── markdown_examples.md
 ├── repo/
-│   ├── browser_Сташенко.png
-│   ├── backend_Сташенко.png
-│   ├── terminal_Сташенко.png
-│   └── git_Сташенко.png
+│   ├── browser_Stash.png
+│   ├── backend_Stash.png
+│   ├── terminal_Stash.png
+│   └── git_Stash.png
 ├── server/
 │   └── Program.cs
 ├── terminal_practice/
@@ -63,7 +63,7 @@ Lab4_ISRPO_Сташенко/
 
 ### Картинка
 
-![Браузер](repo/browser_Сташенко.png)
+![Браузер](/img/repo/Stash1.png)
 
 ### Код
 
@@ -87,7 +87,7 @@ $$
 
 ## Ссылка на репозиторий
 
-[https://github.com/ваш_логин/Lab4_ISRPO_Сташенко](https://github.com/ваш_логин/Lab4_ISRPO_Сташенко)
+[https://github.com/vekysek12-wq/Lab4_ISRPO_Stash.git](https://github.com/vekysek12-wq/Lab4_ISRPO_Stash.git)
 
 ---
 
@@ -95,7 +95,7 @@ $$
 
 | Скриншот | Описание |
 |----------|----------|
-| ![browser](img/Stash1.png) | index.html в браузере |
+| ![browser](/img/repo/Stash2.png) | вывод кода |
 
 
 ---
