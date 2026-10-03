@@ -8,6 +8,13 @@ class Program {
 
         string group = "ИС-243";
 Console.WriteLine($"Группа: {group}");
-Console.WriteLine($"Дата и время: {DateTime.Now}");
+        Console.WriteLine($"Дата и время: {DateTime.Now}");
+Console.WriteLine("Меню:");
+                Console.WriteLine("1 — Показать ФИО");
+                Console.WriteLine("2 — Показать группу");
+                Console.WriteLine("3 — Показать дату");
+                Console.WriteLine("4 — Выход");
+                Console.Write("Ваш выбор: ");
+
     }
 }
